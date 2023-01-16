@@ -16,6 +16,6 @@ java text game GrowingMarine 입니다.
  - java 16
 
 # 영상 
-[![Video Label](http://img.youtube.com/vi/-xSNIr-KmKw/0.jpg)]
+![Video Label](http://img.youtube.com/vi/-xSNIr-KmKw/0.jpg)
 
 https://www.youtube.com/watch?v=-xSNIr-KmKw
