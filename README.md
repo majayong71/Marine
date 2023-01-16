@@ -14,3 +14,5 @@ java text game GrowingMarine 입니다.
 
 # 스택
  - java 16
+
+# 영상 https://www.youtube.com/watch?v=-xSNIr-KmKw
